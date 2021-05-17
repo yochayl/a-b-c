@@ -1,20 +1,20 @@
 {
   "files": {
-    "app.js": "/static/js/app.8bb4c327.chunk.js",
-    "app.js.map": "/static/js/app.8bb4c327.chunk.js.map",
-    "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
-    "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.2a2670fb.chunk.js": "/static/js/2.2a2670fb.chunk.js",
-    "static/js/2.2a2670fb.chunk.js.map": "/static/js/2.2a2670fb.chunk.js.map",
-    "fonts/MaterialCommunityIcons.ttf": "/./fonts/MaterialCommunityIcons.ttf",
-    "index.html": "/index.html",
-    "manifest.json": "/manifest.json",
-    "serve.json": "/serve.json",
-    "static/js/2.2a2670fb.chunk.js.LICENSE.txt": "/static/js/2.2a2670fb.chunk.js.LICENSE.txt"
+    "app.js": "/a-b-c/static/js/app.8bb4c327.chunk.js",
+    "app.js.map": "/a-b-c/static/js/app.8bb4c327.chunk.js.map",
+    "runtime~app.js": "/a-b-c/static/js/runtime~app.5ee60f1d.js",
+    "runtime~app.js.map": "/a-b-c/static/js/runtime~app.5ee60f1d.js.map",
+    "static/js/2.7bf03262.chunk.js": "/a-b-c/static/js/2.7bf03262.chunk.js",
+    "static/js/2.7bf03262.chunk.js.map": "/a-b-c/static/js/2.7bf03262.chunk.js.map",
+    "fonts/MaterialCommunityIcons.ttf": "/a-b-c/./fonts/MaterialCommunityIcons.ttf",
+    "index.html": "/a-b-c/index.html",
+    "manifest.json": "/a-b-c/manifest.json",
+    "serve.json": "/a-b-c/serve.json",
+    "static/js/2.7bf03262.chunk.js.LICENSE.txt": "/a-b-c/static/js/2.7bf03262.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.2a2670fb.chunk.js",
+    "static/js/runtime~app.5ee60f1d.js",
+    "static/js/2.7bf03262.chunk.js",
     "static/js/app.8bb4c327.chunk.js"
   ]
 }
