@@ -1,21 +1,22 @@
 {
   "files": {
-    "app.js": "/a-b-c/static/js/app.aa190420.chunk.js",
-    "app.js.map": "/a-b-c/static/js/app.aa190420.chunk.js.map",
+    "app.js": "/a-b-c/static/js/app.b0978017.chunk.js",
+    "app.js.map": "/a-b-c/static/js/app.b0978017.chunk.js.map",
     "runtime~app.js": "/a-b-c/static/js/runtime~app.5ee60f1d.js",
     "runtime~app.js.map": "/a-b-c/static/js/runtime~app.5ee60f1d.js.map",
-    "static/js/2.c2d90303.chunk.js": "/a-b-c/static/js/2.c2d90303.chunk.js",
-    "static/js/2.c2d90303.chunk.js.map": "/a-b-c/static/js/2.c2d90303.chunk.js.map",
+    "static/js/2.911f459f.chunk.js": "/a-b-c/static/js/2.911f459f.chunk.js",
+    "static/js/2.911f459f.chunk.js.map": "/a-b-c/static/js/2.911f459f.chunk.js.map",
     "fonts/MaterialCommunityIcons.ttf": "/a-b-c/./fonts/MaterialCommunityIcons.ttf",
     "index.html": "/a-b-c/index.html",
     "manifest.json": "/a-b-c/manifest.json",
     "serve.json": "/a-b-c/serve.json",
-    "static/js/2.c2d90303.chunk.js.LICENSE.txt": "/a-b-c/static/js/2.c2d90303.chunk.js.LICENSE.txt",
-    "static/media/alef-kamatz.ogg": "/a-b-c/static/media/alef-kamatz.f972dadb.ogg"
+    "static/js/2.911f459f.chunk.js.LICENSE.txt": "/a-b-c/static/js/2.911f459f.chunk.js.LICENSE.txt",
+    "static/media/alef-hiriq.ogg": "/a-b-c/static/media/alef-hiriq.6c28305c.ogg",
+    "static/media/alef-qamats.ogg": "/a-b-c/static/media/alef-qamats.f972dadb.ogg"
   },
   "entrypoints": [
     "static/js/runtime~app.5ee60f1d.js",
-    "static/js/2.c2d90303.chunk.js",
-    "static/js/app.aa190420.chunk.js"
+    "static/js/2.911f459f.chunk.js",
+    "static/js/app.b0978017.chunk.js"
   ]
 }
