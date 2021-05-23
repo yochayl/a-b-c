@@ -1,22 +1,25 @@
 {
   "files": {
-    "app.js": "/a-b-c/static/js/app.b0978017.chunk.js",
-    "app.js.map": "/a-b-c/static/js/app.b0978017.chunk.js.map",
+    "app.js": "/a-b-c/static/js/app.2ff3459d.chunk.js",
+    "app.js.map": "/a-b-c/static/js/app.2ff3459d.chunk.js.map",
     "runtime~app.js": "/a-b-c/static/js/runtime~app.5ee60f1d.js",
     "runtime~app.js.map": "/a-b-c/static/js/runtime~app.5ee60f1d.js.map",
-    "static/js/2.911f459f.chunk.js": "/a-b-c/static/js/2.911f459f.chunk.js",
-    "static/js/2.911f459f.chunk.js.map": "/a-b-c/static/js/2.911f459f.chunk.js.map",
+    "static/js/2.117e178a.chunk.js": "/a-b-c/static/js/2.117e178a.chunk.js",
+    "static/js/2.117e178a.chunk.js.map": "/a-b-c/static/js/2.117e178a.chunk.js.map",
     "fonts/MaterialCommunityIcons.ttf": "/a-b-c/./fonts/MaterialCommunityIcons.ttf",
     "index.html": "/a-b-c/index.html",
     "manifest.json": "/a-b-c/manifest.json",
     "serve.json": "/a-b-c/serve.json",
-    "static/js/2.911f459f.chunk.js.LICENSE.txt": "/a-b-c/static/js/2.911f459f.chunk.js.LICENSE.txt",
+    "static/js/2.117e178a.chunk.js.LICENSE.txt": "/a-b-c/static/js/2.117e178a.chunk.js.LICENSE.txt",
     "static/media/alef-hiriq.ogg": "/a-b-c/static/media/alef-hiriq.6c28305c.ogg",
-    "static/media/alef-qamats.ogg": "/a-b-c/static/media/alef-qamats.f972dadb.ogg"
+    "static/media/alef-holam.ogg": "/a-b-c/static/media/alef-holam.4aeddfd2.ogg",
+    "static/media/alef-qamats.ogg": "/a-b-c/static/media/alef-qamats.f972dadb.ogg",
+    "static/media/alef-shuruk.ogg": "/a-b-c/static/media/alef-shuruk.09829dd8.ogg",
+    "static/media/alef-tsere.ogg": "/a-b-c/static/media/alef-tsere.7e5dec09.ogg"
   },
   "entrypoints": [
     "static/js/runtime~app.5ee60f1d.js",
-    "static/js/2.911f459f.chunk.js",
-    "static/js/app.b0978017.chunk.js"
+    "static/js/2.117e178a.chunk.js",
+    "static/js/app.2ff3459d.chunk.js"
   ]
 }
